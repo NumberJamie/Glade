@@ -3,13 +3,13 @@
 	"id": "glade",
 	"version": "${version}",
 	"name": "glade",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Simple additions",
 	"authors": [
 		"NrJam"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/NumberJamie/Glade"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/glade/icon.png",

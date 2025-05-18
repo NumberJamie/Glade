@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "o": "#minecraft:wool",
+    "x": "minecraft:diamond"
+  },
+  "pattern": [
+    "xox",
+    "xox",
+    "xox"
+  ],
+  "result": {
+    "count": 1,
+    "id": "glade:blank_armor_trim_smithing_template"
+  }
+}
