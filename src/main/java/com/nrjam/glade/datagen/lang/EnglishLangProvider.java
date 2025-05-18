@@ -14,5 +14,7 @@ public class EnglishLangProvider extends FabricLanguageProvider {
     @Override
     public void generateTranslations(RegistryWrapper.WrapperLookup wrapperLookup, TranslationBuilder translationBuilder) {
         translationBuilder.add("item.glade.blank_armor_trim_smithing_template", "Blank Armor Trim");
+        translationBuilder.add("item.glade.water_lily", "Water Lily");
+        translationBuilder.add("item.glade.water_lily_pad", "Water Lily Pad");
     }
 }

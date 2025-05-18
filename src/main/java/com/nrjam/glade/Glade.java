@@ -1,5 +1,6 @@
 package com.nrjam.glade;
 
+import com.nrjam.glade.block.ModBlocks;
 import com.nrjam.glade.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -12,6 +13,7 @@ public class Glade implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModBlocks.RegisterBlocks();
 		ModItems.RegisterItems();
 	}
 }
